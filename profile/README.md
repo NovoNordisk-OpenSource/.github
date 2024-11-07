@@ -1,14 +1,7 @@
-## Welcome to Novo Nordisk's Open-Source projects
+## Welcome to Novo Nordisk's Open-Source projects  <img src="logo_nn.png" align="right" height="138"/>
 
 NovoNordisk-OpenSource is the home of our public Open-Source projects developed at Novo Nordisk.
 
 You will find projects centered around reporting of clinical trials.
 
-[comment]: <> (TODO: Add contribution section)
-
-For more information see the pinned repositories below.
-
-[comment]: <> (TODO: Add link to a "ATMOS" webpage for the clinical reporting and others)
-
-[comment]: <> (TODO: Add contribution section)
-[comment]: <> (TODO: Add support section)
+For more information see the overview of [R packages](https://novonordisk-opensource.github.io/R-packages/) and the pinned repositories below.
