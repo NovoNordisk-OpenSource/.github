@@ -1,4 +1,4 @@
-## Welcome to Novo Nordisk's Open-Source projects  <img src="nn_logo.svg" align="right" height="138"/>
+## Welcome to Novo Nordisk's Open-Source projects  <img src="nn_logo.svg" align="right" height="200"/>
 
 NovoNordisk-OpenSource is the home of our public Open-Source projects developed at Novo Nordisk.
 
